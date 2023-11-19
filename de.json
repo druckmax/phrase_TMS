@@ -1,4 +1,5 @@
 {
   "test.test": "Das ist ein Test",
-  "test.new": "Neuer test"
+  "test.new": "Neuer test",
+  "basket.add": "Zum Warenkorb hinzufügen"
 }
